@@ -15,4 +15,6 @@ Steps i followed here.
 13. Basically my model architecture is like 3 upsampling layers,pretrained model,1 global average pooling layer and 2 dense layer. 
 14. After that i compiled my model by using loss function as "categorical_crossentropy",optimizer as "adam",metrics as "accuracy".
 15. after that i started training for 5 epochs and results are below.
+
+
 ![rtyreyre](https://user-images.githubusercontent.com/84494071/130361767-e1020af9-eef8-4998-9cf4-816ccefe4ca2.JPG)
